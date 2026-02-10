@@ -29,15 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xavier-Kevin&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-Kevin&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🚀 Current Focus
 - AI Automation  
