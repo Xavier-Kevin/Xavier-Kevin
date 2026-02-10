@@ -15,9 +15,9 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/KEVIN XAVIER"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/kevinxavier7/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="mailto:kevinxavier6336@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://instagram.com/mr._kevi_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.instagram.com/mr._kevi_/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
